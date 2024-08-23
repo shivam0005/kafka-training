@@ -132,3 +132,91 @@ Using generated security password: 55a61b6e-6366-4e89-abd7-8696c2480785
 [30m2024-08-23 10:37:58,804[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
 [30m2024-08-23 10:38:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
 [30m2024-08-23 10:38:28,806[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:38:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:38:58,802[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:39:28,779[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:39:28,803[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:39:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:39:58,803[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:40:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:40:28,801[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:40:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:40:58,795[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:41:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:41:28,804[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:41:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:41:58,798[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:42:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:42:28,802[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:42:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:42:58,792[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:43:28,777[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:43:28,791[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:43:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:43:58,799[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:44:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:44:28,796[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:44:58,777[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:44:58,786[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:45:28,777[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:45:28,789[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:45:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:45:58,800[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:46:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:46:28,798[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:46:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:46:58,801[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:47:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:47:28,798[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:47:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:47:58,801[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:48:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:48:28,797[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:48:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:48:58,798[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:49:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:49:28,800[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:49:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:49:58,802[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:50:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:50:28,798[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:50:58,777[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:50:58,787[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:51:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:51:28,801[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:51:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:51:58,800[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:52:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:52:28,787[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:52:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:52:58,801[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:53:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:53:28,796[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:53:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:53:58,797[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:54:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:54:28,788[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:54:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:54:58,788[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:55:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:55:28,797[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:55:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:55:58,796[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:56:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:56:28,795[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:56:58,777[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:56:58,786[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:57:28,777[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:57:28,785[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:57:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:57:58,793[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:58:28,777[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:58:28,784[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:58:58,778[0;39m [39mDEBUG[0;39m [[34mparallel-6[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:58:58,795[0;39m [39mDEBUG[0;39m [[34mparallel-3[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:59:28,777[0;39m [39mDEBUG[0;39m [[34mparallel-4[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:59:28,805[0;39m [39mDEBUG[0;39m [[34mparallel-1[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 10:59:58,777[0;39m [39mDEBUG[0;39m [[34mparallel-2[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 10:59:58,784[0;39m [39mDEBUG[0;39m [[34mparallel-7[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster
+[30m2024-08-23 11:00:28,778[0;39m [39mDEBUG[0;39m [[34mparallel-8[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Start getting metrics for kafkaCluster: training-kafka-cluster
+[30m2024-08-23 11:00:28,784[0;39m [39mDEBUG[0;39m [[34mparallel-5[0;39m] [33mc.p.k.u.s.ClustersStatisticsScheduler[0;39m: Metrics updated for cluster: training-kafka-cluster

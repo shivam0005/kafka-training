@@ -1,0 +1,6 @@
+*.classpath
+.project
+.settings/
+*/target/**
+kafka/kafka_2.13-3.7.1/**
+kafka/kafka-ui/out.log
