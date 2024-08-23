@@ -1,0 +1,10 @@
+[2024-08-22 13:22:48,125] INFO [ControllerEventThread controllerId=102] Shutting down (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2024-08-22 13:22:48,129] DEBUG [Controller id=102] Broker 103 was elected as controller instead of broker 102 (kafka.controller.KafkaController)
+org.apache.kafka.common.errors.ControllerMovedException: Controller moved to another broker. Aborting controller startup procedure
+[2024-08-22 13:22:48,129] INFO [ControllerEventThread controllerId=102] Stopped (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2024-08-22 13:22:48,129] INFO [ControllerEventThread controllerId=102] Shutdown completed (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2024-08-22 13:22:48,129] DEBUG [Controller id=102] Resigning (kafka.controller.KafkaController)
+[2024-08-22 13:22:48,130] DEBUG [Controller id=102] Unregister BrokerModifications handler for Set() (kafka.controller.KafkaController)
+[2024-08-22 13:22:48,130] INFO [PartitionStateMachine controllerId=102] Stopped partition state machine (kafka.controller.ZkPartitionStateMachine)
+[2024-08-22 13:22:48,131] INFO [ReplicaStateMachine controllerId=102] Stopped replica state machine (kafka.controller.ZkReplicaStateMachine)
+[2024-08-22 13:22:48,131] INFO [Controller id=102] Resigned (kafka.controller.KafkaController)

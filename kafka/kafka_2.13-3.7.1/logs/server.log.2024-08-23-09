@@ -1,0 +1,8 @@
+[2024-08-23 10:03:09,477] INFO [ReplicaFetcherManager on broker 102] Removed fetcher for partitions HashSet(Deepak-1) (kafka.server.ReplicaFetcherManager)
+[2024-08-23 10:03:09,477] INFO [ReplicaFetcherManager on broker 101] Removed fetcher for partitions Set(Deepak-1) (kafka.server.ReplicaFetcherManager)
+[2024-08-23 10:03:09,483] INFO [ReplicaFetcherManager on broker 102] Added fetcher to broker 101 for partitions Map(Deepak-1 -> InitialFetchState(Some(FotWFK6VQLusH5vHpgC8Bw),BrokerEndPoint(id=101, host=npciadmin-HP-EliteBook-830-G6:9092),5,3198)) (kafka.server.ReplicaFetcherManager)
+[2024-08-23 10:03:09,483] INFO [ReplicaFetcherThread-0-101]: Starting (kafka.server.ReplicaFetcherThread)
+[2024-08-23 10:03:09,491] INFO [ReplicaFetcherManager on broker 102] Removed fetcher for partitions Set(Deepak-0) (kafka.server.ReplicaFetcherManager)
+[2024-08-23 10:03:09,502] INFO [ReplicaFetcherManager on broker 101] Removed fetcher for partitions HashSet(Deepak-0) (kafka.server.ReplicaFetcherManager)
+[2024-08-23 10:03:09,507] INFO [ReplicaFetcherManager on broker 101] Added fetcher to broker 102 for partitions Map(Deepak-0 -> InitialFetchState(Some(FotWFK6VQLusH5vHpgC8Bw),BrokerEndPoint(id=102, host=npciadmin-HP-EliteBook-830-G6:9093),5,2907)) (kafka.server.ReplicaFetcherManager)
+[2024-08-23 10:03:09,507] INFO [ReplicaFetcherThread-0-102]: Starting (kafka.server.ReplicaFetcherThread)

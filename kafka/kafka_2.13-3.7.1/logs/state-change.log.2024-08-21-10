@@ -1,0 +1,3 @@
+[2024-08-21 11:00:27,707] INFO [Broker id=102] Add 1 partitions and deleted 0 partitions from metadata cache in response to UpdateMetadata request sent by controller 101 epoch 3 with correlation id 0 (state.change.logger)
+[2024-08-21 11:03:42,643] INFO [Broker id=102] Add 0 partitions and deleted 1 partitions from metadata cache in response to UpdateMetadata request sent by controller 101 epoch 3 with correlation id 1 (state.change.logger)
+[2024-08-21 11:03:43,097] INFO [Broker id=102] Add 1 partitions and deleted 0 partitions from metadata cache in response to UpdateMetadata request sent by controller 101 epoch 3 with correlation id 2 (state.change.logger)
